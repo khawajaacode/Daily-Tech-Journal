@@ -3,17 +3,12 @@
 This is my personal 30-day challenge to grow as a software engineer while keeping my GitHub profile active.  
 Every day I commit either a solved coding problem, a script, or a short "Today I Learned" (TIL) note.  
 
-
 ## 📅 Challenge Goals  
 
 - Build consistency by committing daily  
 - Strengthen problem-solving with Python and algorithms  
 - Document what I learn in tech (ML, GitHub, networking, etc)  
 - End up with a repo that shows growth and variety  
-
-
-
-
 
 ## ✅ Progress Tracker  
 
@@ -59,15 +54,11 @@ Every day I commit either a solved coding problem, a script, or a short "Today I
 - [ ] Note: APIs and JSON basics  
 - [ ] Final wrap-up & reflection  
 
-
-
 ## 🔑 How to Use  
 
 - Browse the `problems/` folder for coding solutions  
 - Browse the `scripts/` folder for automation & data projects  
 - Browse the `notes/` folder for quick concept summaries  
-
-
 
 ## 📌 Next Steps  
 
