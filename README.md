@@ -14,42 +14,42 @@ Every day I commit either a solved coding problem, a script, or a short "Today I
 
 ### Week 1: Kickoff  
 
-- [ ] Setup repo & README  
-- [ ] Factorial problem  
-- [ ] Note: What is Git & GitHub  
-- [ ] Prime checker  
-- [ ] Note: Lists vs Tuples  
-- [ ] Reverse string problem  
-- [ ] Simple Calculator script  
+- [x] Setup repo & README  
+- [X] Factorial problem  
+- [X] Note: What is Git & GitHub  
+- [X] Prime checker  
+- [X] Note: Lists vs Tuples  
+- [X] Reverse string problem  
+- [X] Simple Calculator script  
 
 ### Week 2: Algorithms & Notes  
 
-- [ ] Time Complexity basics note  
-- [ ] Binary Search problem  
-- [ ] Palindrome checker  
-- [ ] Stack vs Queue note  
-- [ ] Stack implementation  
-- [ ] Queue implementation  
-- [ ] Max & Min problem  
+- [X] Time Complexity basics note  
+- [X] Binary Search problem  
+- [X] Palindrome checker  
+- [X] Stack vs Queue note  
+- [X] Stack implementation  
+- [X] Queue implementation  
+- [X] Max & Min problem  
 
 ### Week 3: Mini Projects + ML Basics  
 
-- [ ] Note: What is ML  
-- [ ] Data cleaning script  
-- [ ] Matplotlib plotting script  
-- [ ] Note: Supervised vs Unsupervised  
-- [ ] Word frequency problem  
-- [ ] Weather data analysis script  
-- [ ] Note: Overfitting vs Underfitting  
+- [X] Note: What is ML  
+- [X] Data cleaning script  
+- [X] Matplotlib plotting script  
+- [X] Note: Supervised vs Unsupervised  
+- [X] Word frequency problem  
+- [X] Weather data analysis script  
+- [X] Note: Overfitting vs Underfitting  
 
 ### Week 4: Advanced Practice + Wrap-Up  
 
-- [ ] Bubble Sort problem  
-- [ ] Merge Sort problem  
-- [ ] Note: Big O for sorting algorithms  
-- [ ] File renaming automation script  
-- [ ] Find duplicates problem  
-- [ ] Note: GitHub Actions  
+- [X] Bubble Sort problem  
+- [X] Merge Sort problem  
+- [X] Note: Big O for sorting algorithms  
+- [X] File renaming automation script  
+- [X] Find duplicates problem  
+- [X] Note: GitHub Actions  
 - [ ] Simple Web Scraper  
 - [ ] Note: APIs and JSON basics  
 - [ ] Final wrap-up & reflection  
