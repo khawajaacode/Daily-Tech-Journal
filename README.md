@@ -50,8 +50,8 @@ Every day I commit either a solved coding problem, a script, or a short "Today I
 - [X] File renaming automation script  
 - [X] Find duplicates problem  
 - [X] Note: GitHub Actions  
-- [ ] Simple Web Scraper  
-- [ ] Note: APIs and JSON basics  
+- [X] Simple Web Scraper  
+- [X] Note: APIs and JSON basics  
 - [ ] Final wrap-up & reflection  
 
 ## 🔑 How to Use  
