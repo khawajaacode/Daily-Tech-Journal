@@ -52,7 +52,7 @@ Every day I commit either a solved coding problem, a script, or a short "Today I
 - [X] Note: GitHub Actions  
 - [X] Simple Web Scraper  
 - [X] Note: APIs and JSON basics  
-- [ ] Final wrap-up & reflection  
+- [X] Final wrap-up & reflection  
 
 ## 🔑 How to Use  
 
